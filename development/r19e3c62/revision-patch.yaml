@@ -5,4 +5,4 @@
 - op: add
   path: /spec/template/spec/containers/0/image
   value:
-    image-registry.openshift-image-registry.svc.cluster.local:5000/devops-workshop/quarkus-hello-world:19e3c62ae20b65ab977a1000a1bdec002e753120
+    image-registry.openshift-image-registry.svc.cluster.local:5000/cicd/quarkus-hello-world:19e3c62ae20b65ab977a1000a1bdec002e753120
