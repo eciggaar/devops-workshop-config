@@ -1,0 +1,5 @@
+- op: add
+  path: /spec/traffic/-
+  value:
+    tag: r507012e
+    revisionName: quarkus-hello-world-r507012e
