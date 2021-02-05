@@ -1,5 +1,0 @@
-- op: add
-  path: /spec/traffic/-
-  value:
-    tag: rc3e5632
-    revisionName: quarkus-hello-world-rc3e5632
